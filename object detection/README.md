@@ -4,7 +4,7 @@
   https://youtu.be/LGIWRk2LESE
 
 ### Link to the Application:
-  https://share.streamlit.io/abcdofficialzw/machine_learning2/main/main.py
+  https://malojays07-object-detection-app-objectdetectionmain-vomabw.streamlit.app/
 
 
 ## This is a Machine Learning project that:
